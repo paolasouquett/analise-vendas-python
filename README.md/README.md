@@ -15,16 +15,16 @@ e conceitos básicos de Business Intelligence.
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
+```text
 analise-vendas-python/
-│
 ├── data/
-│ └── vendas.csv
-│
+│   └── vendas.csv
 ├── notebooks/
-│ └── analise_vendas.ipynb
-│
+│   └── analise_vendas.ipynb
 └── README.md
+```
 
 ---
 
@@ -46,6 +46,11 @@ analise-vendas-python/
 - Alguns produtos possuem alto volume de vendas, mas menor ticket médio.
 
 ---
+## 📈 Principais Visualizações
+
+### Faturamento por Categoria
+![Faturamento por Categoria](graficos/faturamento_por_categoria.png)
+
 
 ## 🚀 Conclusão
 O projeto demonstra como a análise de dados pode ser utilizada para
