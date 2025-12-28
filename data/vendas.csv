@@ -1,0 +1,42 @@
+data,regiao,produto,categoria,quantidade,preco_unitario,canal_venda
+2024-01-05,Sudeste,Camiseta,Moda,3,50,Online
+2024-01-06,Sul,Caneca,Casa,5,30,Loja Física
+2024-01-07,Nordeste,Fone de Ouvido,Eletrônicos,2,150,Online
+2024-01-10,Sudeste,Mouse,Eletrônicos,1,120,Online
+2024-01-12,Norte,Camiseta,Moda,4,50,Loja Física
+2024-01-15,Sul,Teclado,Eletrônicos,1,200,Online
+2024-01-18,Sudeste,Caneca,Casa,6,30,Online
+2024-01-22,Nordeste,Caderno,Papelaria,10,15,Loja Física
+2024-02-02,Sudeste,Camiseta,Moda,5,50,Online
+2024-02-04,Sul,Fone de Ouvido,Eletrônicos,1,150,Online
+2024-02-07,Norte,Caneca,Casa,3,30,Loja Física
+2024-02-10,Sudeste,Mouse,Eletrônicos,2,120,Loja Física
+2024-02-14,Nordeste,Caderno,Papelaria,8,15,Online
+2024-02-18,Sul,Teclado,Eletrônicos,2,200,Loja Física
+2024-02-22,Sudeste,Camiseta,Moda,6,50,Online
+2024-03-01,Norte,Camiseta,Moda,2,50,Online
+2024-03-03,Sudeste,Caneca,Casa,7,30,Loja Física
+2024-03-06,Nordeste,Fone de Ouvido,Eletrônicos,3,150,Online
+2024-03-09,Sul,Mouse,Eletrônicos,2,120,Online
+2024-03-12,Sudeste,Caderno,Papelaria,12,15,Loja Física
+2024-03-15,Norte,Teclado,Eletrônicos,1,200,Online
+2024-03-18,Sudeste,Camiseta,Moda,4,50,Online
+2024-03-22,Nordeste,Caneca,Casa,5,30,Loja Física
+2024-03-25,Sul,Fone de Ouvido,Eletrônicos,2,150,Online
+2024-04-02,Sudeste,Mouse,Eletrônicos,3,120,Online
+2024-04-05,Norte,Caderno,Papelaria,6,15,Loja Física
+2024-04-08,Sul,Camiseta,Moda,7,50,Online
+2024-04-10,Nordeste,Teclado,Eletrônicos,2,200,Online
+2024-04-15,Sudeste,Caneca,Casa,8,30,Loja Física
+2024-04-18,Norte,Fone de Ouvido,Eletrônicos,1,150,Online
+2024-04-22,Sul,Mouse,Eletrônicos,2,120,Loja Física
+2024-04-25,Sudeste,Caderno,Papelaria,10,15,Online
+2024-05-02,Nordeste,Camiseta,Moda,5,50,Online
+2024-05-05,Sudeste,Teclado,Eletrônicos,3,200,Online
+2024-05-08,Sul,Caneca,Casa,6,30,Loja Física
+2024-05-12,Norte,Mouse,Eletrônicos,1,120,Online
+2024-05-15,Sudeste,Fone de Ouvido,Eletrônicos,2,150,Online
+2024-05-18,Nordeste,Caderno,Papelaria,9,15,Loja Física
+2024-05-22,Sul,Camiseta,Moda,4,50,Online
+2024-05-25,Sudeste,Caneca,Casa,7,30,Online
+
