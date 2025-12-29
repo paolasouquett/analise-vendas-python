@@ -49,6 +49,7 @@ analise-vendas-python/
 ## 📈 Principais Visualizações
 
 ### Faturamento por Categoria
+
 ![Faturamento por Categoria](graficos/faturamento_por_categoria.png)
 
 
